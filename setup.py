@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="input_ccy",
-    version="0.0.1",
+    version="0.0.2",
     author="Thomaz Pougy",
     author_email="tp@rbrasset.com.br",
     description="Streamlit custom component to input currency",
